@@ -1,0 +1,6 @@
+/home/m/Dokumenty/mono/TwoCSV2/bin/Debug/TwoCSV2.exe
+/home/m/Dokumenty/mono/TwoCSV2/bin/Debug/TwoCSV2.pdb
+/home/m/Dokumenty/mono/TwoCSV2/obj/x86/Debug/TwoCSV2.csprojAssemblyReference.cache
+/home/m/Dokumenty/mono/TwoCSV2/obj/x86/Debug/TwoCSV2.csproj.CoreCompileInputs.cache
+/home/m/Dokumenty/mono/TwoCSV2/obj/x86/Debug/TwoCSV2.exe
+/home/m/Dokumenty/mono/TwoCSV2/obj/x86/Debug/TwoCSV2.pdb
